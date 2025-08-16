@@ -6,5 +6,6 @@ We craft open-source tools for financial planning purposes.
 
 We aim to develop open-source yet intuitive, performant, and useful FP&A tools. We take our inspirations from the following sources:
 
-* [https://corporatefinanceinstitute.com/resources/fpa/fp-a-tools/](https://corporatefinanceinstitute.com/resources/fpa/fp-a-tools/)
 * [https://en.wikipedia.org/wiki/FP%26A](https://en.wikipedia.org/wiki/FP%26A)
+* [https://corporatefinanceinstitute.com/resources/fpa/fp-a-tools/](https://corporatefinanceinstitute.com/resources/fpa/fp-a-tools/)
+* [https://www.sap.com/mena/products/financial-management/what-is-financial-planning-and-analysis-fpa.html](https://www.sap.com/mena/products/financial-management/what-is-financial-planning-and-analysis-fpa.html)
