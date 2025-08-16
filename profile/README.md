@@ -1,4 +1,4 @@
-# Open Financial Planning 🧮
+# Open Financial Planning (OpenFinPlan) 🧮
 
 We craft open-source tools for financial planning purposes.
 
